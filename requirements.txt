@@ -1,0 +1,6 @@
+pandas
+pandas_ta
+matplotlib
+MetaTrader5
+openai
+python-dotenv
