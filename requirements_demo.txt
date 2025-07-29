@@ -1,0 +1,6 @@
+pandas
+pandas_ta
+matplotlib
+openai
+python-dotenv
+requests
