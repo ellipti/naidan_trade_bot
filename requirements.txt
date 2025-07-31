@@ -1,6 +1,55 @@
-pandas
-pandas_ta
-matplotlib
-MetaTrader5
-openai
-python-dotenv
+# Core dependencies
+pandas>=2.0.0
+pandas_ta>=0.3.14b
+matplotlib>=3.7.0
+MetaTrader5>=5.0.45
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Web Framework
+Flask>=2.3.0
+Flask-Login>=0.6.0
+Flask-Session>=0.5.0
+
+# HTTP requests and APIs
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Time and date handling
+pytz>=2023.3
+
+# Image processing (for charts)
+Pillow>=10.0.0
+
+# Data visualization
+plotly>=5.15.0
+
+# Economic data APIs
+yfinance>=0.2.18
+
+# Telegram bot
+python-telegram-bot>=20.5
+
+# JSON handling
+jsonlines>=3.1.0
+
+# File operations
+pathlib2>=2.3.7
+
+# Security
+cryptography>=41.0.0
+bcrypt>=4.0.0
+
+# Database (optional)
+SQLAlchemy>=2.0.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Async support
+aiohttp>=3.8.0
+asyncio>=3.4.3
+
+# Environment and configuration
+pydantic>=2.0.0
